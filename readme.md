@@ -1,0 +1,1 @@
+Ce script a été conçu pour récupérer le flux RSS du portail de l'IE Et convertir les articles récupérés en texte .    
